@@ -1,5 +1,5 @@
 var BCLS = (function(window, document) {
-  var proxyURL = 'https://solutions.brightcove.com/bcls/bcls-proxy/bcls-proxy-v2.php',
+  var proxyURL = 'https://concord-brightcove-proxy.herokuapp.com/',
     reportURL = 'https://analytics.api.brightcove.com/v1/timeseries/accounts/',
     default_account_id = '57838016001',
     default_video_id = '6063969160001',
